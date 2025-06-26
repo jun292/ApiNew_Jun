@@ -1,7 +1,7 @@
 {
-  "name": "Mecha Api's",
-  "version": "Mecha UI",
-  "description": "Simple and Easy-to-Use API Documentation",
+  "name": "Jun Api's",
+  "version": "JunE UI",
+  "description": "Simple and Easy-to-SimpleUse API Documentation",
   "header": {
     "status": "Online!",
     "imageSrc": [
@@ -14,12 +14,12 @@
     }
   },
   "apiSettings": {
-    "creator": "Mecha Icha"
+    "creator": "JunXzz"
   },
   "links": [
     {
-      "name": "Source Code",
-      "url": "https://github.com/alichadevv/mechaicha-apis"
+      "name": "github",
+      "url": "https://github.com/jun292"
     },
     {
       "name": "Contact Me",
