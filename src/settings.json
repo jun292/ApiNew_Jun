@@ -28,7 +28,7 @@
   ],
   "categories": [
     {
-      "name": "Artificial Intelligence🤖",
+      "name": "ARTIFICIAL INTELLIGENCE🤖",
       "items": [
         {
           "name": "LuminAI",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "name": "Tools",
+      "name": "TOOLS",
       "items": [
         {
           "name": "Emoji Mix",
@@ -54,32 +54,27 @@
       ]
     },
     {
-      "name": "Downloader",
+      "name": "DOWNLOADER",
       "items": [  
         {
           "name": "Tiktok",
           "desc": "Downloader tiktok",
           "path": "/download/tiktok?url="
-        }        
+        },
+        {
+          "name": "YouTube",
+          "desc": "Video search",
+          "path": "/search/youtube?q="
+        }
       ]
     },
     {
-      "name": "Random",
+      "name": "RANDOM",
       "items": [
         {
           "name": "Blue Archive",
           "desc": "Blue Archive Random Images",
           "path": "/random/ba"
-        }
-      ]
-    },    
-    {
-      "name": "Search Tools",
-      "items": [
-        {
-          "name": "YouTube",
-          "desc": "Video search",
-          "path": "/search/youtube?q="
         }
       ]
     }
