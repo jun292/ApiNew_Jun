@@ -36,6 +36,11 @@
           "path": "/ai/luminai?text="
         },
         {
+          "name": "LuminAI",
+          "desc": "Talk with luminai",
+          "path": "/ai/gemini?text="
+        },
+        {
           "name": "HydroMind",
           "desc": "Talk with hydromind",
           "path": "/ai/hydromind?text=&model=",
