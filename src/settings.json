@@ -36,8 +36,8 @@
           "path": "/ai/luminai?text="
         },
         {
-          "name": "LuminAI",
-          "desc": "Talk with luminai",
+          "name": "Gemini-Virtex",
+          "desc": "Talk with Gemini-virtex",
           "path": "/ai/gemini?text="
         },
         {
